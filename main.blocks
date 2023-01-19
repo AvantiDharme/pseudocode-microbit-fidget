@@ -34,7 +34,109 @@
         . # # # . 
         . # . . . 
         . # # # .
-        `</field></block></next></block></next></block></statement></block><block type="device_gesture_event" id="pp4veG-7P%=hp=ax{V2e" x="14" y="565"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="1%XHl37hV$9Uo|ZrlPM{"><field name="LEDS">`
+        `</field></block></next></block></next></block></statement></block><block type="pxt-on-start" id="1+Y}C(=7_|IzbQE72.5G" x="270" y="354"><statement name="HANDLER"><block type="device_show_leds" id="{Y=BxA+J%I?@M;.e_wxe"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id=")V2:]`2O+hw?rRpU-6v#"><field name="LEDS">`
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="YP##-Cf:85tWHADnuEL0"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # # # . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="SG~[}3r(Y_IgsmhVXoL3"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="[W:rq]aoq2C.XRRv^|)z"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="iwP(soS-q3){wR*V;Hml"><field name="LEDS">`
+        # . . . # 
+        # . # . # 
+        # . # . # 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="DBR(Xhz!]5)Ut{P%jSjn"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="Zy)mb%5LDW:7$V2kT,Vd"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id=";2^X:GMV{3IJ:f1]N)xP"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . . . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id=",g_zKY/8fm)F8s@;R:`+"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="2F*j`YYPrFVX]L`IwCZs"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id=":`cZsbSJ)!#8PyQTB0|a"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="At=YM5$Fq.E7q#kCK#5%"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id=")}8M0p3#L-~i|$2h?:77"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="Jr%|~8Gtfu!djszJz,G~"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="`1?9yaC~_vNZ`U,M!Vua"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="jM1#`e6Yjwe_2FC~}R(7"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . . . # . 
+        . . . . . 
+        . . . # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="pp4veG-7P%=hp=ax{V2e" x="14" y="565"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="1%XHl37hV$9Uo|ZrlPM{"><field name="LEDS">`
         # . # . # 
         . # . # . 
         # . # . # 
