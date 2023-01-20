@@ -39,11 +39,102 @@ input.onButtonPressed(Button.AB, function () {
 })
 input.onButtonPressed(Button.B, function () {
     basic.showLeds(`
-        . # . # .
-        . # . # .
+        # # . # #
+        # # # # #
+        . # # # .
+        . . # . .
+        . . . . .
+        `)
+    basic.showLeds(`
+        # # # # #
         # . . . #
+        # . . . #
+        # . . . #
+        # # # # #
+        `)
+    basic.showLeds(`
+        . . . . .
+        . # # # .
+        . # . # .
         . # # # .
         . . . . .
+        `)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . # . .
+        . . . . .
+        . . . . .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . . .
+        . # # # .
+        . . . # .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # . . .
+        . # . . .
+        . # . . .
+        . # . . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # . # .
+        . # # # .
+        . # . # .
+        `)
+    basic.showLeds(`
+        . # . # .
+        . # . # .
+        . # # # .
+        . . # . .
+        . . # . .
+        `)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . # # # .
+        . . . . .
+        . . . . .
+        `)
+    basic.showLeds(`
+        # . . . #
+        # # . . #
+        # . # . #
+        # . . # #
+        # . . . #
+        `)
+    basic.showLeds(`
+        . # # # .
+        . . # . .
+        . . # . .
+        . . # . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . . .
+        . # . . .
+        . # . . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . . .
+        . # # # .
+        . # . . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . . # . .
+        . . # . .
+        . . # . .
+        . . . . .
+        . . # . .
         `)
 })
 input.onGesture(Gesture.Shake, function () {
