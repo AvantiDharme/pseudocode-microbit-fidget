@@ -139,34 +139,146 @@ input.onButtonPressed(Button.B, function () {
 })
 input.onGesture(Gesture.Shake, function () {
     basic.showLeds(`
-        # . # . #
+        . # # # .
         . # . # .
-        # . # . #
         . # . # .
-        # . # . #
-        `)
-    basic.showLeds(`
-        . # . # .
-        # . # . #
-        . # . # .
-        # . # . #
+        . # # # .
         . # . # .
         `)
     basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # . # .
+        . # # # .
+        . # . # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # . # .
+        . # # # .
+        . # . # .
+        `)
+    basic.showLeds(`
+        . . # . .
+        . . # . .
+        . . # . .
         . . . . .
-        # # . # #
-        # . # . #
-        . # . # .
         . . # . .
         `)
     basic.showLeds(`
+        . # # # .
+        . # . . .
+        . # # # .
+        . . . # .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . . # . .
+        . . # . .
+        . . # . .
+        . . # . .
+        `)
+    basic.showLeds(`
+        . # # # .
         . # . # .
         . # . # .
-        # . . . #
+        . # . # .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # # # .
+        . # . . .
+        . # . . .
+        `)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
         . # # # .
         . . . . .
+        . . . . .
         `)
-    music.playMelody("C5 F B G E A D C ", 120)
+    basic.showLeds(`
+        . # # # .
+        . # . . .
+        . # # # .
+        . . . # .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # . # .
+        . # . # .
+        . # # # .
+        . # . # .
+        . # . # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # . # .
+        . # # # .
+        . # . # .
+        `)
+    basic.showLeds(`
+        . # . # .
+        . # . # .
+        . # # . .
+        . # . # .
+        . # . . #
+        `)
+    basic.showLeds(`
+        . # # # .
+        . . # . .
+        . . # . .
+        . . # . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        # . . . #
+        # # . . #
+        # . # . #
+        # . . # #
+        # . . . #
+        `)
+    basic.showLeds(`
+        # # # # .
+        # . . . .
+        # . # # .
+        # . . # .
+        # # # # .
+        `)
+    music.playMelody("C5 B A G F E D C ", 120)
+    basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # # # .
+        . # . # .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # . # .
+        . # . # .
+        . # # # .
+        . . # . .
+        . . # . .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . . .
+        . # # # .
+        . # . . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . . # . .
+        . . # . .
+        . . # . .
+        . . . . .
+        . . # . .
+        `)
 })
 basic.showLeds(`
     . # . # .
