@@ -166,6 +166,7 @@ input.onGesture(Gesture.Shake, function () {
         . # # # .
         . . . . .
         `)
+    music.playMelody("C5 F B G E A D C ", 120)
 })
 basic.showLeds(`
     . # . # .
@@ -210,6 +211,13 @@ basic.showLeds(`
     . . . . .
     `)
 basic.showLeds(`
+    . . . . .
+    . . . . .
+    . # # # .
+    . . . . .
+    . . . . .
+    `)
+basic.showLeds(`
     . # . # .
     . # . # .
     . # # # .
@@ -229,6 +237,13 @@ basic.showLeds(`
     . # # # .
     . . . # .
     . # # # .
+    `)
+basic.showLeds(`
+    . . . . .
+    . . . . .
+    . # # # .
+    . . . . .
+    . . . . .
     `)
 basic.showLeds(`
     . # . # .
@@ -257,6 +272,13 @@ basic.showLeds(`
     . # # # .
     . # # . .
     . # . # .
+    `)
+basic.showLeds(`
+    . . . . .
+    . . . . .
+    . # # # .
+    . . . . .
+    . . . . .
     `)
 basic.showLeds(`
     . # # # .
